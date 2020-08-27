@@ -4,8 +4,10 @@ Psicóloga, Gestora Financeira e atualmente estudante do curso Programador WEB -
 
 
 
+
+![Daniella's status](https://github-readme-stats.vercel.app/api?username=daniellamlima&theme=bear&show_icons=true)
 <!--
-**daniellalima-code/daniellalima-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**daniellamlima/daniellamlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
