@@ -1,6 +1,6 @@
 ### Bem-vindo ao meu Github. 👋
 
-https://github-readme-stats.vercel.app/api?username=daniellalima-code&theme=bear&show_icons=true
+![Daniella's Stats](https://github-readme-stats.vercel.app/api?username=daniellalima-code&theme=bear&show_icons=true)
 
 <!--
 **daniellalima-code/daniellalima-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
