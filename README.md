@@ -1,5 +1,7 @@
 ### Bem-vindo ao meu Github. 👋
 
+Psicóloga, Gestora Financeira e atualmente estudante do curso Programador WEB - IFTO.
+
 ![Daniella's Stats](https://github-readme-stats.vercel.app/api?username=daniellalima-code&theme=bear&show_icons=true)
 
 <!--
