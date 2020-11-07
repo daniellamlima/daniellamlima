@@ -1,6 +1,6 @@
 ### Bem-vindo ao meu Github. 👋
 
-Psicóloga, Gestora Financeira e atualmente estudante do curso Programador WEB - IFTO.
+Estudante do curso Programador WEB - IFTO.
 
 
 
