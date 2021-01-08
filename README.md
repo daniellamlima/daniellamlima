@@ -1,6 +1,9 @@
 ### Bem-vindo ao meu Github. 👋
 
-Estudante do curso Programador WEB - IFTO.
+🎓 Tecnóloga em Gestão Financeira, Psicóloga e Pós graduanda em Neurociências do Desenvolvimento e da Excelência Humana.
+
+📚 Em constante atualização em tendências tecnólogicas através de cursos na área de programação, educação, cultura, negócios e outros.
+💻🎵🎨👩‍💻
 
 
 
