@@ -1,6 +1,6 @@
 ### Bem-vindo ao meu Github. 👋
 
-🎓 Tecnóloga em Gestão Financeira, Psicóloga e Pós graduanda em Neurociências do Desenvolvimento e da Excelência Humana.
+🎓 Tecnóloga em Gestão Financeira, Psicóloga e Pós-graduanda em Neurociências do Desenvolvimento e da Excelência Humana.
 
 📚 Em constante atualização nas tendências tecnólogicas através de cursos na área de programação, educação, cultura, negócios e outros.
 💻🎵🎨👩‍💻
