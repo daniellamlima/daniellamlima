@@ -2,7 +2,7 @@
 
 🎓 Tecnóloga em Gestão Financeira, Psicóloga e Pós-graduanda em Neurociências do Desenvolvimento e da Excelência Humana.
 
-📚 Em constante atualização através de estudos e cursos na área de tecnologia, robótica educacional, programação, educação, processos de aprendizagem, saúde mental e educação inclusiva.
+📚 Em constante atualização através de estudos e cursos na área de tecnologia, robótica educacional, programação, educação, processos de ensino e aprendizagem, saúde mental e educação inclusiva.
 💻🎵🎨👩‍💻
 
 
